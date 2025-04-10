@@ -1,5 +1,3 @@
-Sure! Here's the ready-to-paste `README.md` content formatted for GitHub:
-
 ```markdown
 # 📝 To-Do List Web App
 
