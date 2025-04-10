@@ -12,9 +12,7 @@ A simple and clean To-Do List web application built using **HTML**, **CSS**, and
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/Madhurya2303/todo-list.git
